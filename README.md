@@ -6,4 +6,4 @@ This project uses machine learning to perform sentiment analysis on the IMDB mov
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-imdb.git
+   [git clone https://github.com/yourusername/sentiment-analysis-imdb.git](https://github.com/Vicky-258/Sentiment-Analysis.git)
